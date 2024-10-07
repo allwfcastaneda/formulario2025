@@ -1,0 +1,143 @@
+{
+    "Chile": [
+      {
+        "date": "2024-03-29",
+        "name": "Viernes Santo"
+      },
+      {
+        "date": "2024-03-30",
+        "name": "Sábado Santo"
+      },
+      {
+        "date": "2024-05-01",
+        "name": "Día del Trabajo"
+      },
+      {
+        "date": "2024-05-21",
+        "name": "Día de las Glorias Navales"
+      },
+      {
+        "date": "2024-06-09",
+        "name": "Elecciones P. Alcaldes y Gobernadores"
+      },
+      {
+        "date": "2024-06-20",
+        "name": "Día Nacional de los Pueblos Indígenas"
+      },
+      {
+        "date": "2024-06-29",
+        "name": "San Pedro y San Pablo"
+      },
+      {
+        "date": "2024-07-16",
+        "name": "Día de la Virgen del Carmen"
+      },
+      {
+        "date": "2024-08-15",
+        "name": "Asunción de la Virgen"
+      },
+      {
+        "date": "2024-09-18",
+        "name": "Fiestas Patrias"
+      },
+      {
+        "date": "2024-09-19",
+        "name": "Fiestas Patrias"
+      },
+      {
+        "date": "2024-09-20",
+        "name": "Feriado añadido de Fiestas Patrias"
+      },
+      {
+        "date": "2024-10-12",
+        "name": "Encuentro de Dos Mundos"
+      },
+      {
+        "date": "2024-10-27",
+        "name": "Elecciones"
+      },
+      {
+        "date": "2024-10-31",
+        "name": "Día de las Iglesias Evangelicas"
+      },
+      {
+        "date": "2024-11-01",
+        "name": "Día de Todos los Santos"
+      },
+      {
+        "date": "2024-12-08",
+        "name": "Inmaculada Concepción"
+      },
+      {
+        "date": "2024-12-25",
+        "name": "Navidad"
+      }
+    ],
+    "Peru": [
+      {
+        "date": "2024-03-28",
+        "name": "Jueves Santo"
+      },
+      {
+        "date": "2024-03-29",
+        "name": "Viernes Santo"
+      },
+      {
+        "date": "2024-03-30",
+        "name": "Sábado Santo"
+      },
+      {
+        "date": "2024-05-01",
+        "name": "Día del Trabajo"
+      },
+      {
+        "date": "2024-06-07",
+        "name": "Batalla de Arica y Día de la Bandera"
+      },
+      {
+        "date": "2024-06-29",
+        "name": "San Pedro y San Pablo"
+      },
+      {
+        "date": "2024-07-23",
+        "name": "Conmemoración Capitán FAP José A. Quiñones G."
+      },
+      {
+        "date": "2024-07-28",
+        "name": "Independencia Nacional"
+      },
+      {
+        "date": "2024-07-29",
+        "name": "Independencia Nacional"
+      },
+      {
+        "date": "2024-08-06",
+        "name": "Batalla de Junín"
+      },
+      {
+        "date": "2024-08-30",
+        "name": "Santa Rosa de Lima"
+      },
+      {
+        "date": "2024-10-08",
+        "name": "Combate de Angamos"
+      },
+      {
+        "date": "2024-11-01",
+        "name": "Día de Todos los Santos"
+      },
+      {
+        "date": "2024-12-08",
+        "name": "Inmaculada Concepción"
+      },
+      {
+        "date": "2024-12-09",
+        "name": "Batalla de Ayacucho"
+      },
+      {
+        "date": "2024-12-25",
+        "name": "Navidad"
+      }
+    ]
+  }
+  
